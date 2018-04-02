@@ -1,0 +1,2 @@
+# variousJS
+Various JS solutions
